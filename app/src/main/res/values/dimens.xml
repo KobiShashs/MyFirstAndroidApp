@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_size">150dp</dimen>
+    <dimen name="classic_marg">30dp</dimen>
+    <dimen name="favorite_text_size">30sp</dimen>
+    <dimen name="medium_font_size">30sp</dimen>
+    <dimen name="big_font_size">30sp</dimen>
+</resources>

@@ -4,5 +4,10 @@
     <string name="are_you_sure">Are you sure you want to close this activity?</string>
     <string name="moshe">Moshe</string>
     <string name="avi_kop">Avi kop</string>
+    <string name="welcome_to_my_app">Welcome to my app</string>
+    <string name="pls_insert_email">pls insert email</string>
+    <string name="pls_insert_password">pls insert password</string>
+    <string name="login">Login</string>
+    <string name="invlid_user_or_pass">Sorry Invalid credentials</string>
 
 </resources>

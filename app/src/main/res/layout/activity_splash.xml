@@ -4,7 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity">
+    tools:context=".ui.SplashActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_my_app"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorBluish"
+        android:layout_above="@+id/image_logo"
+        android:layout_marginBottom="@dimen/classic_marg"/>
+
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_centerInParent="true"
+        android:layout_width="@dimen/logo_size"
+        android:layout_height="@dimen/logo_size"
+        android:src="@mipmap/ic_launcher_round"/>
 
 
 
